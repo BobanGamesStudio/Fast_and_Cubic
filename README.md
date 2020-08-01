@@ -1,4 +1,4 @@
-# Fast_and_Cubic
+# Fast and Cubic
 
 Once upon a time there was a land of orange cubes. But the unexpected mutation made all the cubes mutate and change their color. Only one of the cubes "cube warrior" remained sensible and an unknown virus gave him unprecedented powers.
 
@@ -22,7 +22,7 @@ height="60">](https://twitter.com/BobanGamesStudi) &nbsp; &nbsp; &nbsp; &nbsp; &
 alt="Check our Facebook"
 height="60">](https://www.instagram.com/bobangamesstudio/)
 
-### Downloads
+### Download or play( in browser )
 
 [<img src="https://static.itch.io/images/badge.svg"
 alt="Get it on Itch.io"
@@ -32,7 +32,7 @@ alt="Get it on Game Jolt"
 height="50">](https://gamejolt.com/games/Fast_and_Cubic/521280)  
 
 
-### Play at
+### Play( in browser ) at
 
 [<img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/d4db4e99-cbb9-4ce9-b2fa-fb965c68b0f3.png"
 alt="Play it on SIMMER.io"
