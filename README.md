@@ -29,7 +29,7 @@ alt="Get it on Itch.io"
 height="60">](https://boban-games-studio.itch.io/fast-and-cubic) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 [<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGjRt6NufFSHw/company-logo_200_200/0?e=2159024400&v=beta&t=Z1w2AA9qlFv-306xDjemCtAE-Abwez-XtRKu5owVYrw"
 alt="Get it on Game Jolt"
-height="50">](https://gamejolt.com/games/Fast_and_Cubic/521280)  
+height="80">](https://gamejolt.com/games/Fast_and_Cubic/521280)  
 
 
 ### Play( in browser ) at
