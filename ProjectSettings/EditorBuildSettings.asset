@@ -5,43 +5,73 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Menu.unity
     guid: a3281139904d7e145977c5361f44a7cb
+  - enabled: 1
+    path: Assets/Scenes/Menu Android.unity
+    guid: 249c9b8f228be7448aec5626cef8ac47
   - enabled: 0
     path: Assets/Scenes/Menu webGL.unity
     guid: aee36c21b84db80498afeb05e5f7c367
   - enabled: 1
+    path: Assets/Scenes/About Android.unity
+    guid: d27f9a5cf1fdc0a429b6625e8b3f6592
+  - enabled: 0
     path: Assets/Scenes/About.unity
     guid: 05744b321648b364ba70937156c12c87
   - enabled: 1
+    path: Assets/Scenes/Control Android.unity
+    guid: 9c5d27013db507747ab43e306ea9ae44
+  - enabled: 0
     path: Assets/Scenes/Control.unity
     guid: cff7c1846b390df48b62a74fdf3c7626
   - enabled: 1
+    path: Assets/Scenes/LVL 1 Android.unity
+    guid: 3502ad2eb0dc26a4da8eb9e620be9ad7
+  - enabled: 0
     path: Assets/Scenes/LVL 1.unity
     guid: 907c257885c119c4586704184dad7cfe
   - enabled: 1
+    path: Assets/Scenes/LVL 2 Android.unity
+    guid: 6afd89dc8354df147a3a415b577b08b6
+  - enabled: 0
     path: Assets/Scenes/LVL 2.unity
     guid: 17ae208b472aeb2458676a35b9f09f0c
   - enabled: 1
-    path: Assets/Scenes/LVL 3.unity
+    path: Assets/Scenes/LVL 3 Android.unity
     guid: 33508853c7b1af3438b2384600f6de90
-  - enabled: 1
+  - enabled: 0
+    path: Assets/Scenes/LVL 3.unity
+    guid: 2986cbef09d527442bb9cffbdb295e60
+  - enabled: 0
     path: Assets/Scenes/LVL 4.unity
     guid: ab5885e6e79c70646a2157fa4eecbc79
+  - enabled: 1
+    path: Assets/Scenes/LVL 4 Android.unity
+    guid: 69586628e2180c84fa4cb9f825f88cb4
   - enabled: 0
     path: Assets/Scenes/LVL 4 webGL.unity
     guid: 51650c164966c2d45beb31cd834a108b
   - enabled: 1
+    path: Assets/Scenes/LVL 5 Android.unity
+    guid: 5eb59bf3d0388b640ba2fadd50113f34
+  - enabled: 0
     path: Assets/Scenes/LVL 5.unity
     guid: 40979abade8fc6541a4e99cd4ed34700
   - enabled: 0
     path: Assets/Scenes/LVL 5 webGL.unity
     guid: f0e6cc7647bec924db083f406bae2774
   - enabled: 1
+    path: Assets/Scenes/LVL 6 Android.unity
+    guid: f63a53a257ad1f04094777eaf18426c5
+  - enabled: 0
     path: Assets/Scenes/LVL 6.unity
     guid: ace03c9965f6dd843b89444ef23341cf
   - enabled: 1
+    path: Assets/Scenes/LVL 7 Android.unity
+    guid: 96b8ec69dc207cd45b6f962496f5b6c5
+  - enabled: 0
     path: Assets/Scenes/LVL 7.unity
     guid: ba741f66cd216e74fb38f3cb485755f3
   - enabled: 0

@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 177103054091312573}
   - component: {fileID: 5449364529291182509}
   - component: {fileID: 5449364529291182508}
+  - component: {fileID: -4713115465262597170}
   m_Layer: 8
   m_Name: Player
   m_TagString: Untagged
@@ -135,7 +136,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1474637865604530808}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7740d35a39a834742ac41de6fcd0dc0a, type: 3}
   m_Name: 
@@ -143,7 +144,25 @@ MonoBehaviour:
   rb: {fileID: 177103054091312573}
   forwardForce: 3000
   maxspeed: 60
-  sidewaysForce: 50
+  jumpForce: 55
+  changeFormSpeed: 0.02
+  changeLimitLow: 0.5
+  changeLimitTop: 1.5
+--- !u!114 &-4713115465262597170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1474637865604530808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a16b1fea79c467a4ebd8fe4db1c53b6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rb: {fileID: 177103054091312573}
+  forwardForce: 3000
+  maxspeed: 30
   jumpForce: 55
   changeFormSpeed: 0.02
   changeLimitLow: 0.5

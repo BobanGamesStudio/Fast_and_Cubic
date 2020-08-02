@@ -2,7 +2,7 @@
 //using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour
+public class PcPlayerMovement : MonoBehaviour
 {
     public Rigidbody rb;
 
@@ -18,13 +18,6 @@ public class PlayerMovement : MonoBehaviour
     
 
     private Vector3 scaleChange;
-
-
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
 
     // Update is called once per frame
     void FixedUpdate()

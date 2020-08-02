@@ -4,7 +4,7 @@ using System.Collections.Generic;
 public class PlayerColision : MonoBehaviour
 {
     
-    public PlayerMovement movement;
+    public PcPlayerMovement movement;
     public GameObject trash;
     public Vector3 PlayerSize;
     public Vector3 ReleaseForce;
