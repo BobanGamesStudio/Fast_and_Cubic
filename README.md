@@ -30,6 +30,9 @@ height="60">](https://boban-games-studio.itch.io/fast-and-cubic) &nbsp; &nbsp; &
 [<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGjRt6NufFSHw/company-logo_200_200/0?e=2159024400&v=beta&t=Z1w2AA9qlFv-306xDjemCtAE-Abwez-XtRKu5owVYrw"
 alt="Get it on Game Jolt"
 height="80">](https://gamejolt.com/games/Fast_and_Cubic/521280)  
+[<img src="https://images.app.goo.gl/Qi4cxrQJoqc9u3CN6"
+alt="Get it on Google play store"
+height="60">](https://play.google.com/store/apps/details?id=com.BobanGamesStudio.FastAndCubic) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 
 
 ### Play( in browser ) at
